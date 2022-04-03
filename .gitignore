@@ -105,3 +105,6 @@ dist
 
 # gen
 previews.txt
+
+# IntelliJ
+.idea/
