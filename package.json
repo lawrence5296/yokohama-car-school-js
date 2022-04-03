@@ -1,0 +1,21 @@
+{
+  "name": "yokohama-car-school-js",
+  "version": "0.0.1",
+  "description": "notify yokohama car school js reservation",
+  "keywords": "",
+  "license": "",
+  "author": "Maria",
+  "scripts": {
+    "build": "parcel build index.html",
+    "dev": "parcel index.html --open",
+    "start": "npm run build && npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.3.1"
+  },
+  "dependencies": {
+    "puppeteer": "^13.5.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
